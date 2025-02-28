@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-
+// pizza menu
 const pizzaData = [
   {
     name: "Focaccia",
